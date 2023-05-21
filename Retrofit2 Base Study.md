@@ -298,5 +298,3 @@ class MainActivity : AppCompatActivity() {
 	 }
 }
 ```
-
-![Untitled](Retrofit2%20Base%20Study%208cc7bacb3f6e458cb598243558482125/Untitled.png)
