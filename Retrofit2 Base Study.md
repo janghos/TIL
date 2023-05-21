@@ -280,7 +280,7 @@ import co.kr.filaerp.retrofitbase.viewModel.MainViewModel
 
 class MainActivity : AppCompatActivity() {
 
-  private val binding bylazy{
+  private val binding by lazy{
 		ActivityMainBinding.inflate(layoutInflater)
 	}
 
